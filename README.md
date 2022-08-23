@@ -1,8 +1,8 @@
 ## 介绍
 
-VANILO玩家axty搭建的玩家WIKI 主要记录VANILO服务器内的故事。
+OOL 攻略 WIKI，本WIKI主要记录OOL（魔法奇谭）整合包的攻略
 
-十分欢迎志同道合者与我们一起记叙下VANILO服务器的历史。
+十分欢迎志同道合者与我们一起补充 / 填写攻略。
 
 如有问题/反馈，欢迎给guangchangzhen@qq.com发邮件/QQ上私聊axty。
 
@@ -10,7 +10,7 @@ VANILO玩家axty搭建的玩家WIKI 主要记录VANILO服务器内的故事。
 
 ## 部署/自行搭建
 
-步骤一：git clone git@github.com:axty666/VANILOWIKI.git
+步骤一：git clone git@github.com:axty666/OOLWIKI.git
 
 步骤二：运行 yarn install (请先执行npm install yarn -g安装yarn)
 
