@@ -48,7 +48,9 @@
 - 煤矿脉 -> 裸露在外面的煤矿 含有大量煤矿和铁矿
 - 化石矿脉 ->裸露在外面的骨块 (早期版本) 或野生卷心菜 含有琥珀和岩化根
 
-<img src="https://g-c-z.cc/wp-content/uploads/2022/08/铁矿脉-1024x554.jpg" style="zoom: 25%;" /><img src="https://g-c-z.cc/wp-content/uploads/2022/08/煤矿脉-1024x554.jpg" style="zoom: 25%;" /><img src="https://g-c-z.cc/wp-content/uploads/2022/08/化石矿脉-1024x554.jpg" alt="img" style="zoom: 25%;" />
+
+| ![](https://g-c-z.cc/wp-content/uploads/2022/08/%E9%93%81%E7%9F%BF%E8%84%89-1024x554.jpg) | ![](https://g-c-z.cc/wp-content/uploads/2022/08/%E7%85%A4%E7%9F%BF%E8%84%89-1024x554.jpg) | ![](https://g-c-z.cc/wp-content/uploads/2022/08/%E5%8C%96%E7%9F%B3%E7%9F%BF%E8%84%89-1024x554.jpg) |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
 *铁矿脉 / 煤矿脉 / 两个化石矿脉*
 
