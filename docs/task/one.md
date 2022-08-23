@@ -4,7 +4,7 @@
 
 使用打火石在厨锅正下方一格点一个火焰即可，如图：
 
-<img src="https://g-c-z.cc/wp-content/uploads/2022/08/厨锅.png" alt="img" style="zoom:50%;" />
+![img](https://g-c-z.cc/wp-content/uploads/2022/08/厨锅.png)
 
 ### 方向的讯息... 它能给我指路吗？
 
@@ -18,7 +18,7 @@
 
 手持金属 / 非金属探测器进行跑图 如果附近有矿脉则会指向那个矿脉，如果发现不是很好找不妨在加载出的区块待一小会。
 
-<img src="https://g-c-z.cc/wp-content/uploads/2022/08/金属探测器-1024x554.jpg" alt="img" style="zoom:50%;" />
+![img](https://g-c-z.cc/wp-content/uploads/2022/08/金属探测器-1024x554.jpg)
 
 *有图有真相.jpg*
 
