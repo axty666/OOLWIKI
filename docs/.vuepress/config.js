@@ -1,5 +1,5 @@
 module.exports = {
-  title: 'OOLTWIKI',
+  title: 'OOLWIKI',
   description: '一场童话般的冒险旅程。',
   markdown: {
     lineNumbers: true // 代码块显示行号
