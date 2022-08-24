@@ -108,7 +108,7 @@ module.exports = {
       ['/start', '前情提示'],
       ['/example', '本wiki特性'],
       ['/task/one', '第一层'],
-      ['/task/two', '第二层']
+      ['/task/two', '第二层'],
       ['/plant', '植物合集']
     ],
     sidebarDepth: 2, // 同时提取 h2 和 h3 标题(值为0-2,0为禁用)
