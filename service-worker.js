@@ -27,7 +27,7 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "b0fdce1e867ea317123415ba9f57a285"
+    "revision": "27ba34967d7bb0a17a414bff4b207308"
   },
   {
     "url": "assets/css/0.styles.e3a675bf.css",
@@ -82,12 +82,12 @@ self.__precacheManifest = [
     "revision": "6ed58f956fd8f37bc29b50324e688579"
   },
   {
-    "url": "assets/js/9.35440d98.js",
-    "revision": "aab58a6fa6a038011183fe0ce3ee94a9"
+    "url": "assets/js/9.cd495bdb.js",
+    "revision": "085623b7b66e7656cb420e80c4601927"
   },
   {
-    "url": "assets/js/app.8ded3148.js",
-    "revision": "68787f95ae1c4b5efa4fb2719a0f3357"
+    "url": "assets/js/app.7f1a692b.js",
+    "revision": "85461a70f08e4ab244f37d379fd209d9"
   },
   {
     "url": "CCopyBoard.js",
@@ -95,7 +95,7 @@ self.__precacheManifest = [
   },
   {
     "url": "example.html",
-    "revision": "a277abc1b84975d742593c21c9b9275c"
+    "revision": "58b920770e1b27427ba3022108bffea7"
   },
   {
     "url": "icons/apple-touch-icon-152x152.png",
@@ -119,23 +119,23 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "d017d67d6c8de33d781703a2f221069e"
+    "revision": "42db43a36aaa83b9a011fd1fbffb2070"
   },
   {
     "url": "plant.html",
-    "revision": "ef7fdfbafa75e990a3429f6bee836091"
+    "revision": "405a9a89a89bf1c6d9d3aba3d5acb171"
   },
   {
     "url": "start.html",
-    "revision": "5883aab3eae22dd7ca62b1d11a459df2"
+    "revision": "9a605c08f4a4f5e7f79454fc96fe3c52"
   },
   {
     "url": "task/one.html",
-    "revision": "c68f076be7b345b315622c20b9ae6273"
+    "revision": "7817b9e68b8c2d700dfa09df06c8df33"
   },
   {
     "url": "task/two.html",
-    "revision": "45a843b65d69d160a68ad6f9ccd06555"
+    "revision": "015c521bf4338ce4b29f771f2b7cbfea"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
