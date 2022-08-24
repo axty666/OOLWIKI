@@ -1,10 +1,10 @@
 {
-    "name": "MARYTWIKI",
-    "short_name": "MARYTWIKI",
+    "name": "OOLWIKI",
+    "short_name": "OOLWIKI",
     "start_url": "index.html",
     "display": "standalone",
     "background_color": "#2196f3",
-    "description": "A MARYT PLAYER WIKI",
+    "description": "OOL PLAYER-DOCS WIKI",
     "theme_color": "blue",
     "icons": [
       {
