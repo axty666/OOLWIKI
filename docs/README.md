@@ -1,11 +1,11 @@
 ---
 home: true
 heroImage: /icons/photo.png
-heroText: MARYT WIKI
+heroText: OOL WIKI
 actionText: 开↗始↘吟↗唱↘
 actionLink: /start.md
-tagline: A MARYT PLAYER WIKI
-footer: MIT Licensed | Copyright © 2021-2022 MARYT WIKI
+tagline: OOL PLAYER-DOCS WIKI
+footer: MIT Licensed | Copyright © 2021-2022 OOL WIKI
 ---
 
 欢迎来到OOL 攻略 WIKI，本WIKI主要记录OOL（魔法奇谭）整合包的攻略
