@@ -27,7 +27,7 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "1c2e77f0b819234760e07a0ad7c2c6f0"
+    "revision": "102e418e323c79c1790fc81c2c2dae5c"
   },
   {
     "url": "assets/css/0.styles.6ea53a06.css",
@@ -42,8 +42,8 @@ self.__precacheManifest = [
     "revision": "7147f767ad432f109951d0635aee8670"
   },
   {
-    "url": "assets/js/11.11fc9f23.js",
-    "revision": "42386d7b17340ee7bc5059260e68c665"
+    "url": "assets/js/11.db837376.js",
+    "revision": "02b4e4aadff57510bdfd379c1b5b176d"
   },
   {
     "url": "assets/js/12.8cb28044.js",
@@ -86,8 +86,8 @@ self.__precacheManifest = [
     "revision": "dd7244e83e47ee1da35e137af850e2a2"
   },
   {
-    "url": "assets/js/app.2d2c9c8b.js",
-    "revision": "04035ecc4ccc3d1b6ea6921ba5c08ddf"
+    "url": "assets/js/app.bced6e31.js",
+    "revision": "59378c729540e84fac553d20a937a19c"
   },
   {
     "url": "CCopyBoard.js",
@@ -95,7 +95,7 @@ self.__precacheManifest = [
   },
   {
     "url": "example.html",
-    "revision": "4ec1462b0fcf811bbde0a00f9cfdf125"
+    "revision": "652ea9f5f620f2422ccccafb8ea6c077"
   },
   {
     "url": "icons/apple-touch-icon-152x152.png",
@@ -119,23 +119,23 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "7ae0713e54d9055d9c5d1ac681e9449c"
+    "revision": "b74e6dc1b992a1ff80654a3dc5543778"
   },
   {
     "url": "plant.html",
-    "revision": "3dcdf79da1e5eca91c6376f686db5546"
+    "revision": "0fbf6ff6d5023b94edb90ac6d9260989"
   },
   {
     "url": "start.html",
-    "revision": "316f3198b905d2dd5478aae2edef8106"
+    "revision": "09b16a5470bca8c410d9f1bc7b23ad83"
   },
   {
     "url": "task/one.html",
-    "revision": "b6569a4d9bb62e149b4f3dff01dcbb3c"
+    "revision": "11406864dd57cbe1169dede764996329"
   },
   {
     "url": "task/two.html",
-    "revision": "030adcf6fadbd8a6e1f0419f177d8913"
+    "revision": "7c81684defc6409b9d91ba9ac7081adb"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
