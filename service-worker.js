@@ -27,7 +27,7 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "e948c846a4570311794f2b09f04470f2"
+    "revision": "5191cccecf7f464cf6d10a4709385f78"
   },
   {
     "url": "assets/css/0.styles.6ea53a06.css",
@@ -38,16 +38,16 @@ self.__precacheManifest = [
     "revision": "83621669651b9a3d4bf64d1a670ad856"
   },
   {
-    "url": "assets/js/10.1bfe890f.js",
-    "revision": "5b161d6b8a508ec51ada2e5e2378d01f"
+    "url": "assets/js/10.7d01b564.js",
+    "revision": "34b1fa23d23bb01760840baa4b966adc"
   },
   {
     "url": "assets/js/11.8e9b16f2.js",
     "revision": "7a077457f1c707666a993bb11e62b5ca"
   },
   {
-    "url": "assets/js/12.51ba4184.js",
-    "revision": "b2fef693060904cd8d4a89bae5ba4920"
+    "url": "assets/js/12.836a3167.js",
+    "revision": "6379f0bc3c3de833bbb66b1f779c0958"
   },
   {
     "url": "assets/js/13.9879a26d.js",
@@ -74,20 +74,20 @@ self.__precacheManifest = [
     "revision": "94bd8f7c14b424404dcbf8133815e335"
   },
   {
-    "url": "assets/js/7.03710f98.js",
-    "revision": "1098c84cb91551afc8860a805500cabf"
+    "url": "assets/js/7.8ac5f2f1.js",
+    "revision": "d371deb8754b4020a02ba18fe4bb5049"
   },
   {
-    "url": "assets/js/8.84066c2e.js",
-    "revision": "baf9a4f6060afb6010c2e67db33f525e"
+    "url": "assets/js/8.1571662c.js",
+    "revision": "7ce87388661e01879f44e3ee0bbd7fd3"
   },
   {
-    "url": "assets/js/9.6f7e25f9.js",
-    "revision": "b341332cb5a0657d27e07b08652fe306"
+    "url": "assets/js/9.34375871.js",
+    "revision": "9d47aeceba4e89d733c21f0feac2ae93"
   },
   {
-    "url": "assets/js/app.ecd5a55e.js",
-    "revision": "b15f7f5d38c79cc806ce44186cd76794"
+    "url": "assets/js/app.111d7c9f.js",
+    "revision": "d2414339af1480c61a96821bdb239af2"
   },
   {
     "url": "CCopyBoard.js",
@@ -95,39 +95,27 @@ self.__precacheManifest = [
   },
   {
     "url": "example.html",
-    "revision": "c94d4465d3d1206d6e67e1b255d1bb5b"
-  },
-  {
-    "url": "icons/apple-touch-icon-152x152.png",
-    "revision": "054cdcb38fb5785df0139b73d1a3bcf2"
-  },
-  {
-    "url": "icons/msapplication-icon-144x144.png",
-    "revision": "18db672a6ec0bd6f913c824deaa60a65"
-  },
-  {
-    "url": "icons/safari-pinned-tab.svg",
-    "revision": "c86c03e60c362770d521f4e4890ee964"
+    "revision": "12d356cef713bdfb9b49ce2201ef845c"
   },
   {
     "url": "index.html",
-    "revision": "1d3f77895dfb9d48e60bfcbbb4621e0f"
+    "revision": "b17ad098d00c50a6518f63e0564ec8c6"
   },
   {
     "url": "plant.html",
-    "revision": "ce59e6b66250f5570c373e8728028ff4"
+    "revision": "155769e52046a0092e79be69482e5044"
   },
   {
     "url": "start.html",
-    "revision": "05bbb935508180667d7261c0eca83cbc"
+    "revision": "108303fecfe2ee2cb05ebedb0c397a6f"
   },
   {
     "url": "task/one.html",
-    "revision": "adabe09952f31219d287a1b02fdc372e"
+    "revision": "d530f1f47870cca889834242916dc878"
   },
   {
     "url": "task/two.html",
-    "revision": "ca1fbd9a5b5161da8041d4ff377635d8"
+    "revision": "5bc9abc1d9c3a1df76a8c0585df71415"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
