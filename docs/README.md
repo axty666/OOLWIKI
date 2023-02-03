@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: /icons/photo.png
+heroImage: 
 heroText: OOL WIKI
 actionText: 开↗始↘吟↗唱↘
 actionLink: /start.md
