@@ -27,7 +27,7 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "1f32d4eaf515f3ee483a2bf8a3d4de7e"
+    "revision": "f4264efd0b8f85fdea199824717f906f"
   },
   {
     "url": "assets/css/0.styles.6ea53a06.css",
@@ -86,8 +86,8 @@ self.__precacheManifest = [
     "revision": "9d47aeceba4e89d733c21f0feac2ae93"
   },
   {
-    "url": "assets/js/app.2df7443f.js",
-    "revision": "272c2432abae5450c2db3ac310c480d4"
+    "url": "assets/js/app.3e6d07ba.js",
+    "revision": "b3aa6109bb2051188fa104ebf8a203e6"
   },
   {
     "url": "CCopyBoard.js",
@@ -95,27 +95,27 @@ self.__precacheManifest = [
   },
   {
     "url": "example.html",
-    "revision": "d082182bcfad87de30b98d83b31b1ec1"
+    "revision": "8e7d71793c7f1ff4eca9b4a8b1beb373"
   },
   {
     "url": "index.html",
-    "revision": "d4cdfd6371d379bed67e991c13f9cb51"
+    "revision": "e907c665a57792a6d28a41d28a553d3f"
   },
   {
     "url": "plant.html",
-    "revision": "a7e6f089551b081be6fcc4bdc009f2bd"
+    "revision": "71136355f0945832f5612ffbd1aeffb4"
   },
   {
     "url": "start.html",
-    "revision": "e144a069004ae004309cd8b19b8e12b9"
+    "revision": "db9dac0f3221b5706b18c6da626055b8"
   },
   {
     "url": "task/one.html",
-    "revision": "cf7be0495e7f5cc714212cbab684c4c8"
+    "revision": "9cf79f4d8898b1f7b082f0ca4dc7f387"
   },
   {
     "url": "task/two.html",
-    "revision": "abf8c8a3e77f98c358eac2b21bfaaede"
+    "revision": "3eef173131098e616e6ccfab69e6a8a3"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
